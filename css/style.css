@@ -95,7 +95,6 @@ body {
 
 ul {
     list-style-type: none;
-    padding-left: 0;
 
 }
 
@@ -127,7 +126,6 @@ ul {
 }
 .team {
     background-color: #FFFFFF;
-    width: 264px;
     text-align: center;
     padding-bottom: 10px;
 }
