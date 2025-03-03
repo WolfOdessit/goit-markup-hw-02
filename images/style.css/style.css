@@ -1,0 +1,67 @@
+/*Font*/
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    color:#434455;}
+    h1{color:#FFFFFF;}
+
+/* Links */
+a hover{color:#404BBF;}
+a focus{color:#404BBF;}
+a {text-decoration: none;}
+address {
+    color: #434455;
+}
+/*Button*/
+button{color:#FFFFFF; background-color: #4D5AE5; border: none; outline: none;
+width: 169px;height: 56px;}
+button hover{color:#9747FF;}
+button {
+    cursor: pointer;
+}
+address{color:#434455;}
+
+/*Background*/
+body {background-color:#FFFFFF;}
+.head-section{background-color: #2E2F42;}
+.our-team{background-color: #F4F4FD;}
+    
+.head-section{
+    font-size: 56px;
+    line-height: 1.07;
+    width: 1440px;
+    height: 600px;
+    text-align: center;
+   
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+
+.h3-about{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.p-about{
+    font-size:16px;
+    font-weight: 400;
+    line-height: 1.5;
+    
+}
+.team{background-color:#FFFFFF;
+    width: 264px;
+    text-align: center;
+    padding-bottom: 10px;}
+
+.p-portfolio{
+    
+    width: 360px ;
+    text-align:left;
+    padding-bottom: 32px;
+}
+footer{background-color: #2E2F42;
+color: #F4F4FD;
+}
