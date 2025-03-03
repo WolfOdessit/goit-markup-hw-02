@@ -1,0 +1,152 @@
+/*Font*/
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+/*Logo*/
+.logo{font-family: "Raleway",
+    sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color:#4d5ae5;
+}
+span{color:#2e2f42;}
+
+h1 {
+    color: #FFFFFF;
+}
+
+/* Links */
+a:hover {
+    color: #404BBF;
+}
+
+a:focus {
+    color: #404BBF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.address {
+    color: #434455;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455; 
+}:hover{color:#404BBF}:focus{color:#404BBF}
+.link-studio{font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}:hover{color:#404BBF}:focus{color:#404BBF}
+
+/*Button*/
+button {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    border: none;
+    outline: none;
+    width: 169px;
+    height: 56px;
+    cursor:pointer ;
+};:hover{color: #9747FF;background-color: #404BBF;}:focus{background-color: #404BBF;}
+
+.head-title{font-size:56px;
+line-height: 1.07;
+letter-spacing: 0.02em;}
+.head-section {
+    font-size: 56px;
+    line-height: 1.07;
+    width: 1440px;
+    height: 600px;
+    text-align: center;
+}
+
+/*Background*/
+body {
+    background-color: #FFFFFF;
+}
+
+.head-section {
+    background-color: #2E2F42;
+}
+
+.our-team {
+    background-color: #F4F4FD;
+}
+
+
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+.title-about {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2E2F42;
+}
+
+.p-about {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+/*Team*/
+.team-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2E2F42;
+}
+.team {
+    background-color: #FFFFFF;
+    width: 264px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.name-team{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2E2F42;
+}
+.p-team{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/*Portfolio*/
+.p-portfolio {
+
+    width: 360px;
+    text-align: left;
+    padding-bottom: 32px;
+}
+/*Footer*/
+.footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+}
