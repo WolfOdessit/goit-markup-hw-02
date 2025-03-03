@@ -13,7 +13,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-span{color:#2e2f42;}
+.span{color:#2e2f42;}
 
 h1 {
     color: #FFFFFF;
@@ -38,15 +38,22 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455; 
-}:hover{color:#404BBF}:focus{color:#404BBF}
-.link-studio{font-weight: 500;
+}
+.address:hover {color:#404BBF}
+.address:focus{color:#404BBF}
+.mail{color:#434455;}
+
+.link-studio {
+font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
-}:hover{color:#404BBF}:focus{color:#404BBF}
+}
+.link-studio:hover{background-color:#404BBF}
+.link-studio:focus{color:#404BBF}
 
 /*Button*/
-button {
+.button {
     font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -59,7 +66,9 @@ button {
     width: 169px;
     height: 56px;
     cursor:pointer ;
-};:hover{color: #9747FF;background-color: #404BBF;}:focus{background-color: #404BBF;}
+}
+.button:hover{color: #9747FF;background-color: #404BBF;}
+.button:focus{background-color: #404BBF;}
 
 .head-title{font-size:56px;
 line-height: 1.07;
@@ -106,9 +115,11 @@ ul {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:#434455;
 
 }
 /*Team*/
+.team-section{background-color: #F4F4FD;}
 .team-title{
     font-size: 36px;
     line-height: 1.11;
@@ -136,6 +147,14 @@ ul {
     letter-spacing: 0.02em;
 }
 /*Portfolio*/
+.portfolio-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2E2F42;
+}
 .p-portfolio {
 
     width: 360px;
@@ -149,4 +168,12 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     
+}
+.footer-text{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#F4F4FD;
+}
+.studio{
+    color: #F4F4FD;
 }
