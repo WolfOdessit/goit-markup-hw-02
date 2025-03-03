@@ -13,7 +13,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.span{color:#2e2f42;}
+.span-header{color:#2e2f42;}
 
 h1 {
     color: #FFFFFF;
@@ -63,8 +63,7 @@ color: #2E2F42;
     background-color: #4D5AE5;
     border: none;
     outline: none;
-    width: 169px;
-    height: 56px;
+    
     cursor:pointer ;
 }
 .button:hover{color: #9747FF;background-color: #404BBF;}
@@ -76,8 +75,6 @@ letter-spacing: 0.02em;}
 .head-section {
     font-size: 56px;
     line-height: 1.07;
-    width: 1440px;
-    height: 600px;
     text-align: center;
 }
 
@@ -164,7 +161,6 @@ ul {
 }
 .portfolio-list {
 
-    width: 360px;
     text-align: left;
     padding-bottom: 32px;
 }
@@ -185,6 +181,6 @@ ul {
     letter-spacing: 0.02em;
     color:#F4F4FD;
 }
-.studio{
+.span-footer{
     color: #F4F4FD;
 }
