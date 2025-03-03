@@ -13,7 +13,8 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.span-header{color:#2e2f42;}
+.span-header{color:#2e2f42;
+}
 
 h1 {
     color: #FFFFFF;
@@ -49,8 +50,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
-.link:hover{background-color:#404BBF}
-.link:focus{color:#404BBF}
+.link:hover{background-color:#404BBF;}
+.link:focus{color:#404BBF;}
 
 /*Button*/
 .button {
