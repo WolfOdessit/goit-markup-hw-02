@@ -5,8 +5,8 @@ body {
     h1{color:#FFFFFF;}
 
 /* Links */
-a hover{color:#404BBF;}
-a focus{color:#404BBF;}
+a:hover{color:#404BBF;}
+a:focus{color:#404BBF;}
 a {text-decoration: none;}
 address {
     color: #434455;
@@ -14,7 +14,7 @@ address {
 /*Button*/
 button{color:#FFFFFF; background-color: #4D5AE5; border: none; outline: none;
 width: 169px;height: 56px;}
-button hover{color:#9747FF;}
+button:hover{color:#9747FF;}
 button {
     cursor: pointer;
 }
