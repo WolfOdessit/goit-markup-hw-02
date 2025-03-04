@@ -13,8 +13,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.span-header{color:#2e2f42;
-}
+.studio{color: #2e2f42;}
 
 h1 {
     color: #FFFFFF;
@@ -91,8 +90,6 @@ body {
 .our-team {
     background-color: #F4F4FD;
 }
-
-
 
 ul {
     list-style-type: none;
@@ -179,7 +176,4 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#F4F4FD;
-}
-.span-footer{
-    color: #F4F4FD;
 }
