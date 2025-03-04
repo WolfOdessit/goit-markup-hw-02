@@ -13,7 +13,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.studio{color: #2e2f42;}
+.studio-header{color: #2e2f42;}
 
 h1 {
     color: #FFFFFF;
@@ -177,3 +177,4 @@ ul {
     letter-spacing: 0.02em;
     color:#F4F4FD;
 }
+.studio-footer{color:#f4f4fd;}
